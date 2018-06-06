@@ -1,0 +1,77 @@
+case0.json
+
+same = 4452
+profix = 100924
+replace = 0
+total = 105376   
+
+
+
+
+case1.json
+
+same = 448
+profix = 10868
+replace = 0
+total = 11316  
+
+
+
+case2.json
+
+same = 229
+profix = 10642
+replace = 0
+total = 10871  
+
+
+
+case3.json
+
+same = 3073
+profix = 59089
+replace = 564
+total = 62726   
+
+
+
+case4.json
+
+same = 11587
+profix = 22029
+replace = 115
+total = 33731  
+
+
+case5.json
+	
+same = 16131
+profix = 39391
+replace = 0
+total = 55522  
+
+
+case6.json
+
+same = 9394
+profix = 14539
+replace = 0
+total = 23933 
+
+
+
+case7.json
+
+same = 9245
+profix = 12789
+replace = 0
+total = 22034  
+
+
+
+case8.json
+
+same = 12797
+profix = 43183
+replace = 0
+total = 55980    
